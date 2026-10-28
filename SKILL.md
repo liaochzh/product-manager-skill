@@ -1,6 +1,7 @@
 ---
 name: product-manager
 description: 软件产品经理深度咨询：需求分析与立项评估、PRD撰写、需求质量审计、优先级排序、路线图规划、竞品分析、指标体系、数据分析、Mermaid架构图/流程图/时序图/甘特图、H5可交互原型。按材料完整度在引导式/材料直灌/最佳猜测间切换，缺口就地标注假设。当用户需要产品经理级别支持、PRD文档、竞品或数据分析时触发。如用户只想零提问快速出原型，改用 product-prototype-generation。不用于代码审查（review）、不用于方案技术评审（design-review）。
+license: MIT
 ---
 
 # 产品经理深度咨询
